@@ -1,0 +1,38 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1621290873" />
+    <testcase classname="test_endian_swapper" name="run_test_001" ratio_time="4032.9473362751896" sim_time_ns="520.000001" time="0.1289379596710205" />
+    <testcase classname="test_endian_swapper" name="run_test_002" ratio_time="5048.796404755978" sim_time_ns="770.000001" time="0.1525115966796875" />
+    <testcase classname="test_endian_swapper" name="run_test_003" ratio_time="4455.040068523922" sim_time_ns="690.0000010000001" time="0.15488076210021973" />
+    <testcase classname="test_endian_swapper" name="run_test_004" ratio_time="5715.383455803758" sim_time_ns="1125.0000009999999" time="0.1968371868133545" />
+    <testcase classname="test_endian_swapper" name="run_test_005" ratio_time="5434.981774068527" sim_time_ns="930.0000009999999" time="0.1711137294769287" />
+    <testcase classname="test_endian_swapper" name="run_test_006" ratio_time="5571.852514097988" sim_time_ns="1105.0000010000003" time="0.1983182430267334" />
+    <testcase classname="test_endian_swapper" name="run_test_007" ratio_time="5210.9097956274445" sim_time_ns="610.0000009999994" time="0.11706209182739258" />
+    <testcase classname="test_endian_swapper" name="run_test_008" ratio_time="5432.536735167403" sim_time_ns="1620.0000010000003" time="0.2982032299041748" />
+    <testcase classname="test_endian_swapper" name="run_test_009" ratio_time="4304.207938514205" sim_time_ns="455.00000100000034" time="0.10571050643920898" />
+    <testcase classname="test_endian_swapper" name="run_test_010" ratio_time="4480.551830347476" sim_time_ns="980.0000009999994" time="0.21872305870056152" />
+    <testcase classname="test_endian_swapper" name="run_test_011" ratio_time="4562.233584194724" sim_time_ns="705.0000010000003" time="0.15452957153320312" />
+    <testcase classname="test_endian_swapper" name="run_test_012" ratio_time="5854.80912037438" sim_time_ns="1225.0000010000003" time="0.2092297077178955" />
+    <testcase classname="test_endian_swapper" name="run_test_013" ratio_time="5732.719951614816" sim_time_ns="1025.0000010000003" time="0.17879819869995117" />
+    <testcase classname="test_endian_swapper" name="run_test_014" ratio_time="5080.86269814116" sim_time_ns="1470.0000009999985" time="0.2893209457397461" />
+    <testcase classname="test_endian_swapper" name="run_test_015" ratio_time="4930.931461249522" sim_time_ns="1010.0000010000003" time="0.20482945442199707" />
+    <testcase classname="test_endian_swapper" name="run_test_016" ratio_time="6057.6359397093665" sim_time_ns="1940.0000010000003" time="0.32025694847106934" />
+    <testcase classname="test_endian_swapper" name="run_test_017" ratio_time="3089.5144202225115" sim_time_ns="595.0000009999985" time="0.19258689880371094" />
+    <testcase classname="test_endian_swapper" name="run_test_018" ratio_time="3732.6627032763863" sim_time_ns="880.0000010000003" time="0.23575663566589355" />
+    <testcase classname="test_endian_swapper" name="run_test_019" ratio_time="3724.5707166204015" sim_time_ns="545.0000010000003" time="0.14632558822631836" />
+    <testcase classname="test_endian_swapper" name="run_test_020" ratio_time="4638.005302760324" sim_time_ns="1280.0000010000003" time="0.27598071098327637" />
+    <testcase classname="test_endian_swapper" name="run_test_021" ratio_time="3875.070619980012" sim_time_ns="535.0000010000003" time="0.1380620002746582" />
+    <testcase classname="test_endian_swapper" name="run_test_022" ratio_time="4371.672949929931" sim_time_ns="795.0000010000003" time="0.1818525791168213" />
+    <testcase classname="test_endian_swapper" name="run_test_023" ratio_time="4238.463044969034" sim_time_ns="590.0000010000003" time="0.13920140266418457" />
+    <testcase classname="test_endian_swapper" name="run_test_024" ratio_time="5085.786120776652" sim_time_ns="1765.0000010000003" time="0.3470456600189209" />
+    <testcase classname="test_endian_swapper" name="run_test_025" ratio_time="3719.1907560387717" sim_time_ns="765.0000010000003" time="0.2056899070739746" />
+    <testcase classname="test_endian_swapper" name="run_test_026" ratio_time="4798.421276546104" sim_time_ns="1210.0000010000003" time="0.2521662712097168" />
+    <testcase classname="test_endian_swapper" name="run_test_027" ratio_time="4537.078888551538" sim_time_ns="795.0000009999967" time="0.17522287368774414" />
+    <testcase classname="test_endian_swapper" name="run_test_028" ratio_time="5460.335943022732" sim_time_ns="1055.0000010000003" time="0.19321155548095703" />
+    <testcase classname="test_endian_swapper" name="run_test_029" ratio_time="5713.210184067251" sim_time_ns="870.0000010000003" time="0.15227866172790527" />
+    <testcase classname="test_endian_swapper" name="run_test_030" ratio_time="5833.530331410104" sim_time_ns="1355.0000010000003" time="0.23227787017822266" />
+    <testcase classname="test_endian_swapper" name="run_test_031" ratio_time="5916.123478754739" sim_time_ns="1300.0000010000003" time="0.21973848342895508" />
+    <testcase classname="test_endian_swapper" name="run_test_032" ratio_time="6046.7673761359965" sim_time_ns="1295.0000010000003" time="0.21416401863098145" />
+    <testcase classname="test_endian_swapper" name="wavedrom_test" ratio_time="3093.372744935198" sim_time_ns="40.00000100000034" time="0.012930870056152344" />
+  </testsuite>
+</testsuites>

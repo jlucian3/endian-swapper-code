@@ -1,0 +1,51 @@
+{
+    "signal": [
+        {
+            "name": "clock",
+            "wave": "p..."
+        },
+        {
+            "name": "reset_n",
+            "wave": "1..."
+        },
+        [
+            "csr",
+            {
+                "name": "address",
+                "wave": "x=xx",
+                "data": "0"
+            },
+            {
+                "name": "read",
+                "wave": "010."
+            },
+            {
+                "name": "readdata",
+                "wave": "=.=.",
+                "data": "10 0"
+            },
+            {
+                "name": "readdatavalid",
+                "wave": "0.1."
+            },
+            {
+                "name": "waitrequest",
+                "wave": "0..."
+            },
+            {
+                "name": "write",
+                "wave": "0..."
+            },
+            {
+                "name": "writedata",
+                "wave": "xxxx"
+            }
+        ]
+    ],
+    "head": {
+        "tick": 0
+    },
+    "config": {
+        "hscale": 3
+    }
+}
